@@ -1,0 +1,31 @@
+A faire sans fonction et avec fonction 
+
+Exercice 1
+  Saisir une année qui est un entier positif puis 
+  determiner si l'année est bisextile ou pas 
+
+Exercice 2 
+  Saisir une année et un mois 
+  puis determiner le nombre de jour de ce mois
+  dans l'année
+    1- pas de classe de java 
+    2- Faire avec les classes Java 
+
+Exercice 3
+  Saisir une date (jj-mm-aaaa) puis determiner si la date 
+  est valide ou pas 
+    1- pas de classe de java 
+    2- Faire avec les classes Java 
+
+Exercice 4
+  Saisir une date puis determiner la date suivante puis la date precedente 
+    1- pas de classe de java 
+    2- Faire avec les classes Java 
+
+Exercice 5
+  Saisir une serie de N nombres positif puis determinez la valeur
+    1- La valeur min et la valeur max 
+    2- les 2 valeurs min et les deux valeurs max
+    3- La somme des valeurs premieres
+    4- le produit des valeurs parfaites
+    5- La valeur min premier et la valeur max parfaite 
